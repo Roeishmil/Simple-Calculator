@@ -1,1 +1,3 @@
-# Image-recognition
+# simple calculator
+
+it's simple and ineffective  :)
